@@ -1,7 +1,7 @@
 <?php
 
 
-include "kastuls/fsoup-php.php";
+include "fsoup-php.php";
 
 print_r(fsoup::parse_file(""));
 
